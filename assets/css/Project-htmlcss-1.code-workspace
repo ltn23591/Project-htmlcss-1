@@ -1,0 +1,14 @@
+{
+    "folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "Project-htmlcss-1-1",
+			"path": "../../../Project-htmlcss-1-1"
+		}
+	],
+    "settings": {
+        "liveServer.settings.port": 5501
+    }
+}
